@@ -1,0 +1,10 @@
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\bin\Debug\netcoreapp2.2\GetReg.deps.json
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\bin\Debug\netcoreapp2.2\GetReg.runtimeconfig.json
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\bin\Debug\netcoreapp2.2\GetReg.runtimeconfig.dev.json
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\bin\Debug\netcoreapp2.2\GetReg.dll
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\obj\Debug\netcoreapp2.2\GetReg.csproj.CoreCompileInputs.cache
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\obj\Debug\netcoreapp2.2\GetReg.AssemblyInfoInputs.cache
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\obj\Debug\netcoreapp2.2\GetReg.AssemblyInfo.cs
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\bin\Debug\netcoreapp2.2\GetReg.pdb
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\obj\Debug\netcoreapp2.2\GetReg.dll
+C:\Users\wodson.correia\Desktop\GetReg\GetReg\obj\Debug\netcoreapp2.2\GetReg.pdb

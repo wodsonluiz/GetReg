@@ -1,0 +1,126 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "e49ce360d0fa2c9c2935ec7750d2233e89a5d754"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GetReg/1.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.6.0-preview8.19405.3"
+        },
+        "runtime": {
+          "GetReg.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0-preview8.19405.3": {},
+      "Microsoft.Win32.Registry/4.6.0-preview8.19405.3": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.6.0-preview8.19405.3",
+          "System.Security.Principal.Windows": "4.6.0-preview8.19405.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          },
+          "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.6.0-preview8.19405.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview8.19405.3",
+          "System.Security.Principal.Windows": "4.6.0-preview8.19405.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.6.0-preview8.19405.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview8.19405.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.40503"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetReg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.0.0-preview8.19405.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eWSjQtkNwoZb72bUhy+NN9IWtUs7PSRtko6EeavBhZNMA4EU7PvF4CXnih3wzufn0qtf/7f6Z7iUfPZPz5F36w==",
+      "path": "microsoft.netcore.platforms/3.0.0-preview8.19405.3",
+      "hashPath": "microsoft.netcore.platforms.3.0.0-preview8.19405.3.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.6.0-preview8.19405.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sxH69P9wD+C0dOqmIqDJjxjhYz0SOaG+iwmVdBuXpIy634wmgCu3DKTu2ULh9h305qd9iU8+pdW9DkNTY67lAw==",
+      "path": "microsoft.win32.registry/4.6.0-preview8.19405.3",
+      "hashPath": "microsoft.win32.registry.4.6.0-preview8.19405.3.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.6.0-preview8.19405.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DFmxqAB6KZlHHCZ1sUmCp3q4vpnvxTKymYTOXrue2r97avpkV9i+pNH49T2aZFitmrXDYXPZItBhR0JMraCHBQ==",
+      "path": "system.security.accesscontrol/4.6.0-preview8.19405.3",
+      "hashPath": "system.security.accesscontrol.4.6.0-preview8.19405.3.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.6.0-preview8.19405.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zuw7rUeQhvVictdzpO4q4sOtxxM4orIEXUWbu8jnyvc6XVrkqDhGXCO/Vfzfi60SbXUCI6GDo8evUVwx3aLrnA==",
+      "path": "system.security.principal.windows/4.6.0-preview8.19405.3",
+      "hashPath": "system.security.principal.windows.4.6.0-preview8.19405.3.nupkg.sha512"
+    }
+  }
+}
